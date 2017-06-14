@@ -1,0 +1,26 @@
+{
+  "name": "angular-ssr-loader",
+  "version": "0.1.0",
+  "description": "Angular webpack loader for server side rendering preparation.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shawnsz/angular-ssr-loader.git"
+  },
+  "keywords": [
+    "Angular",
+    "Webpack",
+    "Loader",
+    "SSR",
+    "Template"
+  ],
+  "author": "Shawn Zhang <shawnwebz@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shawnsz/angular-ssr-loader/issues"
+  },
+  "homepage": "https://github.com/shawnsz/angular-ssr-loader#readme"
+}
